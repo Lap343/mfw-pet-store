@@ -41,18 +41,26 @@ a:hover {
   background-color: rgb(252, 252, 252);
   border: 1px solid #5c433f;
 }
+
 /* header end */
-
-.doc1 {
-  display: flex;
-  
+.info>h1 {
+  font-size: 24px;
 }
-
-
-
-
-
-
+.table {
+  padding-top: 20px;
+}
+.table-head {
+  border-bottom: 2px solid #DDDDDD;
+}
+.grey {
+  background-color: #F9F9F9;
+}
+.table-border {
+  border-bottom: 1px solid #E4E4E4;
+}
+.table-data {
+  padding: 5px;
+}
 
 
 
