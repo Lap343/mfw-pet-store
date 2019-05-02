@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Satisfy');
+.logo {
+  width: 80px;
+}
+/* header */
+header h1 {
+  color: #c9c983;
+  font-family: 'Satisfy', cursive;
+  margin-top: 20px;
+}
+.nav-pills>li.active>a {
+  color: #5c433f;
+  background-color: #eeddcd;
+}
+.nav-pills>li.active>a:hover {
+  background-color: #edf1f4;
+  color: #5c433f;
+}
+nav li {
+  font-size: 15px;
+}
+li a, .jumbotron button {
+  border: 1px solid #5c433f;
+  color: #5c433f;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+nav {
+  top: 20px;
+}
+a:hover {
+  text-decoration: none;
+}
+.product {
+  background-color: #eeddcc;
+  border-radius: 5%;
+  border: 5px solid rgb(252, 252, 252);
+}
+.product button {
+  margin-bottom: 10px;
+  background-color: rgb(252, 252, 252);
+  border: 1px solid #5c433f;
+}
+
+/* header end */
+.info>h1 {
+  font-size: 24px;
+}
+.table {
+  padding-top: 20px;
+}
+.table-head {
+  border-bottom: 2px solid #DDDDDD;
+}
+.grey {
+  background-color: #F9F9F9;
+}
+.table-border {
+  border-bottom: 1px solid #E4E4E4;
+}
+.table-data {
+  padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+footer {
+  background-color: #eeddcd;
+  padding-top: 20px;
+  max-height: 100%
+}
+
+footer a {
+  color: #5c433f;
+}
+
+footer img {
+  height: 90px;
+}
+
+.contact-info {
+  padding-top: 15px;
+  padding-left: 40px;
+  border-right: 1px solid #333;
+  border-left: 1px solid #333
+}
+
+.social {
+  padding-top: 15px;
+}
+
+footer .fine_print {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  color: #333;
+}
+/* footer end */
